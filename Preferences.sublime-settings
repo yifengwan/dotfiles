@@ -54,7 +54,7 @@
 	"sidebar_default": true,
 	"spelling_selector": "meta.paragraph - markup.underline.link - markup.raw, markup.quote - markup.underline.link.markdown - markup.raw",
 	"swallow_startup_errors": true,
-	"theme": "Material-Theme-Darker.sublime-theme",
+	"theme": "predawn.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"use_simple_full_screen": true,
